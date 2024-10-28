@@ -38,4 +38,8 @@ With a passion for technology and problem-solving, I enjoy tackling new challeng
   <img alt="Postman" src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </span>
 
-📫 You can reach out to me at: seba.aguero.96@gmail.com
+<br>
+<br>
+<br>
+
+📩 You can reach out to me at: seba.aguero.96@gmail.com

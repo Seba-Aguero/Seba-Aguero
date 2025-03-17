@@ -25,7 +25,7 @@ With a passion for technology and problem-solving, I enjoy tackling new challeng
   <img alt="jQuery" src= "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
 </span>
 
-<h4> Databeses </h4>
+<h4> Databases </h4>
 <span>
   <img alt="MySQL" src= "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="PostgreSQL" src= "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
